@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "377184747386",
+    "firebase_url": "https://thesplitwiseclone.firebaseio.com",
+    "project_id": "thesplitwiseclone",
+    "storage_bucket": "thesplitwiseclone.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:377184747386:android:23b5915712f6381a",
+        "android_client_info": {
+          "package_name": "com.example.avma1997.thesplitwiseclone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "377184747386-7p8cfkcq3ppnjd70g8j00egkorpm0l19.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.avma1997.thesplitwiseclone",
+            "certificate_hash": "356ace5166c1a1ecfc9c68b6d00d2b666f0af9ea"
+          }
+        },
+        {
+          "client_id": "377184747386-1hjo6cb1ae149j0igrt7n4hbmu0hkg0n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmDHN7D1IRkv2efSSLVDnKb2URocl0VPg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "377184747386-1hjo6cb1ae149j0igrt7n4hbmu0hkg0n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

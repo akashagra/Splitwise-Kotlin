@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TheSplitWiseClone</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+    <string name="action_settings">Settings</string>
+</resources>
